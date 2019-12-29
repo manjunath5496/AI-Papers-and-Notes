@@ -240,7 +240,7 @@
  
 <li><b><a target="_blank" href="https://github.com/manjunath5496/AI-Papers-and-Notes/blob/master/aic(129).pdf" style="text-decoration:none;">Real time backbone for semantic segmentation</a></b></li>
   
-<li><b><a target="_blank" href="https://github.com/manjunath5496/AI-Papers-and-Notes/blob/master/aic(130).pdf" style="text-decoration:none;">AttoNets: Compact and Ecient Deep Neural Networks for the Edge via Human-Machine Collaborative Design</a></b></li>
+<li><b><a target="_blank" href="https://github.com/manjunath5496/AI-Papers-and-Notes/blob/master/aic(130).pdf" style="text-decoration:none;">AttoNets: Compact and Efficient Deep Neural Networks for the Edge via Human-Machine Collaborative Design</a></b></li>
 
 <li><b><a target="_blank" href="https://github.com/manjunath5496/AI-Papers-and-Notes/blob/master/aic(131).pdf" style="text-decoration:none;"> IvaNet: Learning to jointly detect and segment objets with the help of Local Top-Down Modules</a></b></li>                         
   <li><b><a target="_blank" href="https://github.com/manjunath5496/AI-Papers-and-Notes/blob/master/aic(132).pdf" style="text-decoration:none;">Understanding the Limitations of CNN-based Absolute Camera Pose Regression</a></b></li>  
@@ -278,7 +278,7 @@
  
 <li><b><a target="_blank" href="https://github.com/manjunath5496/AI-Papers-and-Notes/blob/master/aic(150).pdf" style="text-decoration:none;">Reducing the dilution: An analysis of the information sensitiveness of capsule network with a practical improvement method </a></b></li>
   
-<li><b><a target="_blank" href="https://github.com/manjunath5496/AI-Papers-and-Notes/blob/master/aic(151).pdf" style="text-decoration:none;">Improving image classiers for small datasets by learning rate adaptations</a></b></li>
+<li><b><a target="_blank" href="https://github.com/manjunath5496/AI-Papers-and-Notes/blob/master/aic(151).pdf" style="text-decoration:none;">Improving image classifiers for small datasets by learning rate adaptations</a></b></li>
 
 <li><b><a target="_blank" href="https://github.com/manjunath5496/AI-Papers-and-Notes/blob/master/aic(152).pdf" style="text-decoration:none;">FVNet: 3D Front-View Proposal Generation for Real-Time Object Detection from Point Clouds</a></b></li>                         
   <li><b><a target="_blank" href="https://github.com/manjunath5496/AI-Papers-and-Notes/blob/master/aic(153).pdf" style="text-decoration:none;">Large-scale interactive object segmentation with human annotators</a></b></li>  
