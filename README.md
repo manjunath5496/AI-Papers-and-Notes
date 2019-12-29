@@ -259,34 +259,34 @@
  <li><b><a target="_blank" href="https://github.com/manjunath5496/AI-Papers-and-Notes/blob/master/aic(140).pdf" style="text-decoration:none;">Progressive Sparse Local Attention for Video Object Detection</a></b></li>
  
   
-   <li><b><a target="_blank" href="https://github.com/manjunath5496/AI-Papers-and-Notes/blob/master/aic(141).pdf" style="text-decoration:none;">Show, Attend and Translate: Unpaired Multi-Domain Image-to-Image Translation with Visual Attention</a></b></li>  
-   <li><b><a target="_blank" href="https://github.com/manjunath5496/AI-Papers-and-Notes/blob/master/aic(142).pdf" style="text-decoration:none;">Memory In Memory: A Predictive Neural Network for Learning Higher-Order Non-Stationarity from Spatiotemporal Dynamics</a></b></li>  
+   <li><b><a target="_blank" href="https://github.com/manjunath5496/AI-Papers-and-Notes/blob/master/aic(141).pdf" style="text-decoration:none;">Coin.AI: A Proof-of-Useful-Work Scheme for Blockchain-Based Distributed Deep Learning</a></b></li>  
+   <li><b><a target="_blank" href="https://github.com/manjunath5496/AI-Papers-and-Notes/blob/master/aic(142).pdf" style="text-decoration:none;">Data Poisoning against Differentially-Private Learners: Attacks and Defenses</a></b></li>  
                                              
 
- <li><b><a target="_blank" href="https://github.com/manjunath5496/AI-Papers-and-Notes/blob/master/aic(143).pdf" style="text-decoration:none;">Attributing Fake Images to GANs: Learning and Analyzing GAN Fingerprints</a></b></li>
+ <li><b><a target="_blank" href="https://github.com/manjunath5496/AI-Papers-and-Notes/blob/master/aic(143).pdf" style="text-decoration:none;">Looking Fast and Slow: Memory-Guided Mobile Video Object Detection</a></b></li>
   
-<li><b><a target="_blank" href="https://github.com/manjunath5496/AI-Papers-and-Notes/blob/master/aic(144).pdf" style="text-decoration:none;">TSM: Temporal Shift Module for Efficient Video Understanding</a></b></li>
+<li><b><a target="_blank" href="https://github.com/manjunath5496/AI-Papers-and-Notes/blob/master/aic(144).pdf" style="text-decoration:none;">Robust Neural Networks using Randomized Adversarial Training</a></b></li>
 
-<li><b><a target="_blank" href="https://github.com/manjunath5496/AI-Papers-and-Notes/blob/master/aic(145).pdf" style="text-decoration:none;">Recent Advances in Open Set Recognition: A Survey</a></b></li>                         
-  <li><b><a target="_blank" href="https://github.com/manjunath5496/AI-Papers-and-Notes/blob/master/aic(146).pdf" style="text-decoration:none;">50 Years of Test (Un)fairness: Lessons for Machine Learning</a></b></li>  
-     <li><b><a target="_blank" href="https://github.com/manjunath5496/AI-Papers-and-Notes/blob/master/aic(147).pdf" style="text-decoration:none;">Optimized Skeleton-based Action Recognition via Sparsified Graph Regression</a></b></li>  
-   <li><b><a target="_blank" href="https://github.com/manjunath5496/AI-Papers-and-Notes/blob/master/aic(148).pdf" style="text-decoration:none;">Neural Separation of Observed and Unobserved Distributions</a></b></li>  
+<li><b><a target="_blank" href="https://github.com/manjunath5496/AI-Papers-and-Notes/blob/master/aic(145).pdf" style="text-decoration:none;">MetaPruning: Meta Learning for Automatic Neural Network Channel Pruning</a></b></li>                         
+  <li><b><a target="_blank" href="https://github.com/manjunath5496/AI-Papers-and-Notes/blob/master/aic(146).pdf" style="text-decoration:none;">Fine-tune BERT for Extractive Summarization</a></b></li>  
+     <li><b><a target="_blank" href="https://github.com/manjunath5496/AI-Papers-and-Notes/blob/master/aic(147).pdf" style="text-decoration:none;">ShopSign: a Diverse Scene Text Dataset of Chinese Shop Signs in Street Views</a></b></li>  
+   <li><b><a target="_blank" href="https://github.com/manjunath5496/AI-Papers-and-Notes/blob/master/aic(148).pdf" style="text-decoration:none;">Few-Shot Learning-Based Human Activity Recognition</a></b></li>  
                                              
 
- <li><b><a target="_blank" href="https://github.com/manjunath5496/AI-Papers-and-Notes/blob/master/aic(149).pdf" style="text-decoration:none;">Deep Learning based Pedestrian Detection at Distance in Smart Cities</a></b></li>
+ <li><b><a target="_blank" href="https://github.com/manjunath5496/AI-Papers-and-Notes/blob/master/aic(149).pdf" style="text-decoration:none;">Video Relationship Reasoning using Gated Spatio-Temporal Energy Graph</a></b></li>
  
  
-<li><b><a target="_blank" href="https://github.com/manjunath5496/AI-Papers-and-Notes/blob/master/aic(150).pdf" style="text-decoration:none;">Bag of Tricks for Image Classification with Convolutional Neural Networks </a></b></li>
+<li><b><a target="_blank" href="https://github.com/manjunath5496/AI-Papers-and-Notes/blob/master/aic(150).pdf" style="text-decoration:none;">Reducing the dilution: An analysis of the information sensitiveness of capsule network with a practical improvement method </a></b></li>
   
-<li><b><a target="_blank" href="https://github.com/manjunath5496/AI-Papers-and-Notes/blob/master/aic(151).pdf" style="text-decoration:none;">Learning 3D Human Dynamics from Video</a></b></li>
+<li><b><a target="_blank" href="https://github.com/manjunath5496/AI-Papers-and-Notes/blob/master/aic(151).pdf" style="text-decoration:none;">Improving image classiers for small datasets by learning rate adaptations</a></b></li>
 
-<li><b><a target="_blank" href="https://github.com/manjunath5496/AI-Papers-and-Notes/blob/master/aic(152).pdf" style="text-decoration:none;">A Structured Model For Action Detection</a></b></li>                         
-  <li><b><a target="_blank" href="https://github.com/manjunath5496/AI-Papers-and-Notes/blob/master/aic(153).pdf" style="text-decoration:none;">Deep Learning on Graphs: A SurveyHow to make ad-hoc polymorphism less ad hoc</a></b></li>  
-     <li><b><a target="_blank" href="https://github.com/manjunath5496/AI-Papers-and-Notes/blob/master/aic(154).pdf" style="text-decoration:none;">PointRCNN: 3D Object Proposal Generation and Detection from Point Cloud</a></b></li>  
-   <li><b><a target="_blank" href="https://github.com/manjunath5496/AI-Papers-and-Notes/blob/master/aic(155).pdf" style="text-decoration:none;">Graph Neural Networks: A Review of Methods and Applications</a></b></li>  
+<li><b><a target="_blank" href="https://github.com/manjunath5496/AI-Papers-and-Notes/blob/master/aic(152).pdf" style="text-decoration:none;">FVNet: 3D Front-View Proposal Generation for Real-Time Object Detection from Point Clouds</a></b></li>                         
+  <li><b><a target="_blank" href="https://github.com/manjunath5496/AI-Papers-and-Notes/blob/master/aic(153).pdf" style="text-decoration:none;">Large-scale interactive object segmentation with human annotators</a></b></li>  
+     <li><b><a target="_blank" href="https://github.com/manjunath5496/AI-Papers-and-Notes/blob/master/aic(154).pdf" style="text-decoration:none;">GS3D: An Efficient 3D Object Detection Framework for Autonomous Driving</a></b></li>  
+   <li><b><a target="_blank" href="https://github.com/manjunath5496/AI-Papers-and-Notes/blob/master/aic(155).pdf" style="text-decoration:none;">Simple Applications of BERT for Ad Hoc Document Retrieval</a></b></li>  
                                              
 
- <li><b><a target="_blank" href="https://github.com/manjunath5496/AI-Papers-and-Notes/blob/master/aic(156).pdf" style="text-decoration:none;"> Can You Tell Me How to Get Past Sesame Street? Sentence-Level Pretraining Beyond Language Modeling</a></b></li>
+ <li><b><a target="_blank" href="https://github.com/manjunath5496/AI-Papers-and-Notes/blob/master/aic(156).pdf" style="text-decoration:none;"> DetNAS: Backbone Search for Object Detection</a></b></li>
  
  
 
