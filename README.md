@@ -238,25 +238,25 @@
  <li><b><a target="_blank" href="https://github.com/manjunath5496/AI-Papers-and-Notes/blob/master/aic(128).pdf" style="text-decoration:none;">Fast Interactive Object Annotation with Curve-GCN</a></b></li>
  
  
-<li><b><a target="_blank" href="https://github.com/manjunath5496/AI-Papers-and-Notes/blob/master/aic(129).pdf" style="text-decoration:none;">Mini-batch Serialization: CNN Training with Inter-layer Data Reuse</a></b></li>
+<li><b><a target="_blank" href="https://github.com/manjunath5496/AI-Papers-and-Notes/blob/master/aic(129).pdf" style="text-decoration:none;">Real time backbone for semantic segmentation</a></b></li>
   
-<li><b><a target="_blank" href="https://github.com/manjunath5496/AI-Papers-and-Notes/blob/master/aic(130).pdf" style="text-decoration:none;">Representation Flow for Action Recognition</a></b></li>
+<li><b><a target="_blank" href="https://github.com/manjunath5496/AI-Papers-and-Notes/blob/master/aic(130).pdf" style="text-decoration:none;">AttoNets: Compact and Ecient Deep Neural Networks for the Edge via Human-Machine Collaborative Design</a></b></li>
 
-<li><b><a target="_blank" href="https://github.com/manjunath5496/AI-Papers-and-Notes/blob/master/aic(131).pdf" style="text-decoration:none;">A Comprehensive Survey of Deep Learning for Image Captioning</a></b></li>                         
-  <li><b><a target="_blank" href="https://github.com/manjunath5496/AI-Papers-and-Notes/blob/master/aic(132).pdf" style="text-decoration:none;">BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding</a></b></li>  
-     <li><b><a target="_blank" href="https://github.com/manjunath5496/AI-Papers-and-Notes/blob/master/aic(133).pdf" style="text-decoration:none;">Distributed Learning over Unreliable Networks</a></b></li>  
-   <li><b><a target="_blank" href="https://github.com/manjunath5496/AI-Papers-and-Notes/blob/master/aic(134).pdf" style="text-decoration:none;">Adaptive Communication Strategies to Achieve the Best Error-Runtime Trade-off in Local-Update SGD</a></b></li>  
+<li><b><a target="_blank" href="https://github.com/manjunath5496/AI-Papers-and-Notes/blob/master/aic(131).pdf" style="text-decoration:none;"> IvaNet: Learning to jointly detect and segment objets with the help of Local Top-Down Modules</a></b></li>                         
+  <li><b><a target="_blank" href="https://github.com/manjunath5496/AI-Papers-and-Notes/blob/master/aic(132).pdf" style="text-decoration:none;">Understanding the Limitations of CNN-based Absolute Camera Pose Regression</a></b></li>  
+     <li><b><a target="_blank" href="https://github.com/manjunath5496/AI-Papers-and-Notes/blob/master/aic(133).pdf" style="text-decoration:none;">Scaling Human Activity Recognition to edge devices</a></b></li>  
+   <li><b><a target="_blank" href="https://github.com/manjunath5496/AI-Papers-and-Notes/blob/master/aic(134).pdf" style="text-decoration:none;">Learning Correspondence from the Cycle-consistency of Time</a></b></li>  
                                              
 
- <li><b><a target="_blank" href="https://github.com/manjunath5496/AI-Papers-and-Notes/blob/master/aic(135).pdf" style="text-decoration:none;">A Modern Take on the Bias-Variance Tradeoff in Neural Networks</a></b></li>
+ <li><b><a target="_blank" href="https://github.com/manjunath5496/AI-Papers-and-Notes/blob/master/aic(135).pdf" style="text-decoration:none;">Cloze-driven Pretraining of Self-attention Networks</a></b></li>
  
-  <li><b><a target="_blank" href="https://github.com/manjunath5496/AI-Papers-and-Notes/blob/master/aic(136).pdf" style="text-decoration:none;">What can AI do for me?</a></b></li>                         
-  <li><b><a target="_blank" href="https://github.com/manjunath5496/AI-Papers-and-Notes/blob/master/aic(137).pdf" style="text-decoration:none;">Democratizing Production-Scale Distributed Deep Learning</a></b></li>  
-     <li><b><a target="_blank" href="https://github.com/manjunath5496/AI-Papers-and-Notes/blob/master/aic(138).pdf" style="text-decoration:none;">SocialGCN: An Efficient Graph Convolutional Network based Model for Social Recommendation</a></b></li>  
-   <li><b><a target="_blank" href="https://github.com/manjunath5496/AI-Papers-and-Notes/blob/master/aic(139).pdf" style="text-decoration:none;">Federated Learning for Mobile Keyboard Prediction</a></b></li>  
+  <li><b><a target="_blank" href="https://github.com/manjunath5496/AI-Papers-and-Notes/blob/master/aic(136).pdf" style="text-decoration:none;">Simple, Fast, Accurate Intent Classification and Slot Labeling for Goal-Oriented Dialogue Systems</a></b></li>                         
+  <li><b><a target="_blank" href="https://github.com/manjunath5496/AI-Papers-and-Notes/blob/master/aic(137).pdf" style="text-decoration:none;">In Defense of Pre-trained ImageNet Architectures for Real-time Semantic Segmentation of Road-driving Images</a></b></li>  
+     <li><b><a target="_blank" href="https://github.com/manjunath5496/AI-Papers-and-Notes/blob/master/aic(138).pdf" style="text-decoration:none;">Segmentation-Based Deep-Learning Approach for Surface-Defect Detection</a></b></li>  
+   <li><b><a target="_blank" href="https://github.com/manjunath5496/AI-Papers-and-Notes/blob/master/aic(139).pdf" style="text-decoration:none;">LaserNet: An Efficient Probabilistic 3D Object Detector for Autonomous Driving</a></b></li>  
                                              
 
- <li><b><a target="_blank" href="https://github.com/manjunath5496/AI-Papers-and-Notes/blob/master/aic(140).pdf" style="text-decoration:none;">Deep Object-Centric Policies for Autonomous Driving</a></b></li>
+ <li><b><a target="_blank" href="https://github.com/manjunath5496/AI-Papers-and-Notes/blob/master/aic(140).pdf" style="text-decoration:none;">Progressive Sparse Local Attention for Video Object Detection</a></b></li>
  
   
    <li><b><a target="_blank" href="https://github.com/manjunath5496/AI-Papers-and-Notes/blob/master/aic(141).pdf" style="text-decoration:none;">Show, Attend and Translate: Unpaired Multi-Domain Image-to-Image Translation with Visual Attention</a></b></li>  
