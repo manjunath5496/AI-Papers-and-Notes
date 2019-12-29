@@ -75,7 +75,7 @@
    <li><b><a target="_blank" href="https://github.com/manjunath5496/AI-Papers-and-Notes/blob/master/aic(41).pdf" style="text-decoration:none;">Mitigating Sybils in Federated Learning Poisoning</a></b></li>  
    <li><b><a target="_blank" href="https://github.com/manjunath5496/AI-Papers-and-Notes/blob/master/aic(42).pdf" style="text-decoration:none;">Trick Me If You Can: Human-in-the-loop Generation of Adversarial Examples for Question Answering </a></b></li>  
                                              
-<li><b><a target="_blank" href="https://github.com/manjunath5496/AI-Papers-and-Notes/blob/master/aic(43).pdf" style="text-decoration:none;">Deep learning for time series classication: a review</a></b></li>
+<li><b><a target="_blank" href="https://github.com/manjunath5496/AI-Papers-and-Notes/blob/master/aic(43).pdf" style="text-decoration:none;">Deep learning for time series classification: a review</a></b></li>
   
 <li><b><a target="_blank" href="https://github.com/manjunath5496/AI-Papers-and-Notes/blob/master/aic(44).pdf" style="text-decoration:none;">Autonomous Exploration, Reconstruction, and Surveillance of 3D Environments Aided by Deep Learning</a></b></li>
 
@@ -201,36 +201,41 @@
 <li><b><a target="_blank" href="https://github.com/manjunath5496/AI-Papers-and-Notes/blob/master/aic(109).pdf" style="text-decoration:none;">Speeding up Deep Learning with Transient Servers</a></b></li>
 
 <li><b><a target="_blank" href="https://github.com/manjunath5496/AI-Papers-and-Notes/blob/master/aic(110).pdf" style="text-decoration:none;">Video Summarization via Actionness Ranking</a></b></li>                         
-  <li><b><a target="_blank" href="https://github.com/manjunath5496/AI-Papers-and-Notes/blob/master/aic(111).pdf" style="text-decoration:none;">AutoAugment: Learning Augmentation Strategies from Data</a></b></li>  
-     <li><b><a target="_blank" href="https://github.com/manjunath5496/AI-Papers-and-Notes/blob/master/aic(112).pdf" style="text-decoration:none;">Double Quantization for Communication-Efficient Distributed Optimization</a></b></li>  
-   <li><b><a target="_blank" href="https://github.com/manjunath5496/AI-Papers-and-Notes/blob/master/aic(113).pdf" style="text-decoration:none;">PipeDream: Fast and Efficient Pipeline Parallel DNN Training</a></b></li>  
+  <li><b><a target="_blank" href="https://github.com/manjunath5496/AI-Papers-and-Notes/blob/master/aic(111).pdf" style="text-decoration:none;">Video Extrapolation with an Invertible Linear Embedding</a></b></li>  
+     <li><b><a target="_blank" href="https://github.com/manjunath5496/AI-Papers-and-Notes/blob/master/aic(112).pdf" style="text-decoration:none;">Characterizing Activity on the Deep and DarkWeb</a></b></li>  
+   <li><b><a target="_blank" href="https://github.com/manjunath5496/AI-Papers-and-Notes/blob/master/aic(113).pdf" style="text-decoration:none;">Mask Scoring R-CNN</a></b></li>  
                                              
 
- <li><b><a target="_blank" href="https://github.com/manjunath5496/AI-Papers-and-Notes/blob/master/aic(114).pdf" style="text-decoration:none;">Hierarchical Long-term Video Prediction without Supervision</a></b></li>
+ <li><b><a target="_blank" href="https://github.com/manjunath5496/AI-Papers-and-Notes/blob/master/aic(114).pdf" style="text-decoration:none;">Crowding in humans is unlike that in convolutional neural networks</a></b></li>
  
-  <li><b><a target="_blank" href="https://github.com/manjunath5496/AI-Papers-and-Notes/blob/master/aic(115).pdf" style="text-decoration:none;">Neural Ordinary Differential Equations</a></b></li>                         
-  <li><b><a target="_blank" href="https://github.com/manjunath5496/AI-Papers-and-Notes/blob/master/aic(116).pdf" style="text-decoration:none;">Restructuring Batch Normalization to Accelerate CNN Training</a></b></li>  
-     <li><b><a target="_blank" href="https://github.com/manjunath5496/AI-Papers-and-Notes/blob/master/aic(117).pdf" style="text-decoration:none;">Adaptive Neural Trees</a></b></li>  
-   <li><b><a target="_blank" href="https://github.com/manjunath5496/AI-Papers-and-Notes/blob/master/aic(118).pdf" style="text-decoration:none;">MnasNet: Platform-Aware Neural Architecture Search for Mobile</a></b></li>  
+  <li><b><a target="_blank" href="https://github.com/manjunath5496/AI-Papers-and-Notes/blob/master/aic(115).pdf" style="text-decoration:none;">Continuous Integration of Machine Learning Models with ease. ml/ci: Towards a Rigorous Yet Practical Treatment</a></b></li>                         
+  <li><b><a target="_blank" href="https://github.com/manjunath5496/AI-Papers-and-Notes/blob/master/aic(116).pdf" style="text-decoration:none;">Visual-based Autonomous Driving Deployment from a Stochastic and Uncertainty-aware Perspective</a></b></li>  
+     <li><b><a target="_blank" href="https://github.com/manjunath5496/AI-Papers-and-Notes/blob/master/aic(117).pdf" style="text-decoration:none;">VideoFlow: A Flow-Based Generative Model for Video</a></b></li>  
+   <li><b><a target="_blank" href="https://github.com/manjunath5496/AI-Papers-and-Notes/blob/master/aic(118).pdf" style="text-decoration:none;">Stabilizing the Lottery Ticket Hypothesis</a></b></li>  
                                              
 
- <li><b><a target="_blank" href="https://github.com/manjunath5496/AI-Papers-and-Notes/blob/master/aic(119).pdf" style="text-decoration:none;">Scene-LSTM: A Model for Human Trajectory Prediction</a></b></li>
+ <li><b><a target="_blank" href="https://github.com/manjunath5496/AI-Papers-and-Notes/blob/master/aic(119).pdf" style="text-decoration:none;">Lipstick on a Pig: Debiasing Methods Cover up Systematic Gender Biases inWord Embeddings But do not Remove Them</a></b></li>
  
   
-   <li><b><a target="_blank" href="https://github.com/manjunath5496/AI-Papers-and-Notes/blob/master/aic(120).pdf" style="text-decoration:none;">Mitigating Sybils in Federated Learning Poisoning</a></b></li>  
-   <li><b><a target="_blank" href="https://github.com/manjunath5496/AI-Papers-and-Notes/blob/master/aic(121).pdf" style="text-decoration:none;">Trick Me If You Can: Human-in-the-loop Generation of Adversarial Examples for Question Answering </a></b></li>  
+   <li><b><a target="_blank" href="https://github.com/manjunath5496/AI-Papers-and-Notes/blob/master/aic(120).pdf" style="text-decoration:none;">Activation Analysis of a Byte-Based Deep Neural Network for Malware Classification</a></b></li> 
+   
+   
+   
+   
+   
+   <li><b><a target="_blank" href="https://github.com/manjunath5496/AI-Papers-and-Notes/blob/master/aic(121).pdf" style="text-decoration:none;">An End-to-End Network for Panoptic Segmentation </a></b></li>  
                                              
-<li><b><a target="_blank" href="https://github.com/manjunath5496/AI-Papers-and-Notes/blob/master/aic(122).pdf" style="text-decoration:none;">Deep learning for time series classication: a review</a></b></li>
+<li><b><a target="_blank" href="https://github.com/manjunath5496/AI-Papers-and-Notes/blob/master/aic(122).pdf" style="text-decoration:none;">All You Need is a Few Shifts: Designing Efficient Convolutional Neural Networks for Image Classification</a></b></li>
   
-<li><b><a target="_blank" href="https://github.com/manjunath5496/AI-Papers-and-Notes/blob/master/aic(123).pdf" style="text-decoration:none;">Autonomous Exploration, Reconstruction, and Surveillance of 3D Environments Aided by Deep Learning</a></b></li>
+<li><b><a target="_blank" href="https://github.com/manjunath5496/AI-Papers-and-Notes/blob/master/aic(123).pdf" style="text-decoration:none;">Two-Stream Action Recognition-Oriented Video Super-Resolution</a></b></li>
 
-<li><b><a target="_blank" href="https://github.com/manjunath5496/AI-Papers-and-Notes/blob/master/aic(124).pdf" style="text-decoration:none;">Faster Training of Mask R-CNN by Focusing on Instance Boundaries</a></b></li>                         
-  <li><b><a target="_blank" href="https://github.com/manjunath5496/AI-Papers-and-Notes/blob/master/aic(125).pdf" style="text-decoration:none;">Machine Learning for Forecasting Mid Price Movement using Limit Order Book Data</a></b></li>  
-     <li><b><a target="_blank" href="https://github.com/manjunath5496/AI-Papers-and-Notes/blob/master/aic(126).pdf" style="text-decoration:none;">On-field player workload exposure and knee injury risk monitoring via deep learning</a></b></li>  
-   <li><b><a target="_blank" href="https://github.com/manjunath5496/AI-Papers-and-Notes/blob/master/aic(127).pdf" style="text-decoration:none;">Multimodal Trajectory Predictions for Autonomous Driving using Deep Convolutional Networks</a></b></li>  
+<li><b><a target="_blank" href="https://github.com/manjunath5496/AI-Papers-and-Notes/blob/master/aic(124).pdf" style="text-decoration:none;">SimpleDet: A Simple and Versatile Distributed Framework for Object Detection and Instance Recognition</a></b></li>                         
+  <li><b><a target="_blank" href="https://github.com/manjunath5496/AI-Papers-and-Notes/blob/master/aic(125).pdf" style="text-decoration:none;">BLVD: Building A Large-scale 5D Semantics Benchmark for Autonomous Driving</a></b></li>  
+     <li><b><a target="_blank" href="https://github.com/manjunath5496/AI-Papers-and-Notes/blob/master/aic(126).pdf" style="text-decoration:none;">Spiking-YOLO: Spiking Neural Network for Energy-Efficient Object Detection</a></b></li>  
+   <li><b><a target="_blank" href="https://github.com/manjunath5496/AI-Papers-and-Notes/blob/master/aic(127).pdf" style="text-decoration:none;">Adversarial Networks for Camera Pose Regression and Refinement</a></b></li>  
                                              
 
- <li><b><a target="_blank" href="https://github.com/manjunath5496/AI-Papers-and-Notes/blob/master/aic(128).pdf" style="text-decoration:none;">Real-time Dynamic Object Detection for Autonomous Driving using Prior 3D-Maps</a></b></li>
+ <li><b><a target="_blank" href="https://github.com/manjunath5496/AI-Papers-and-Notes/blob/master/aic(128).pdf" style="text-decoration:none;">Fast Interactive Object Annotation with Curve-GCN</a></b></li>
  
  
 <li><b><a target="_blank" href="https://github.com/manjunath5496/AI-Papers-and-Notes/blob/master/aic(129).pdf" style="text-decoration:none;">Mini-batch Serialization: CNN Training with Inter-layer Data Reuse</a></b></li>
