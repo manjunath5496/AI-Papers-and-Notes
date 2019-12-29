@@ -870,7 +870,7 @@
   
 <li><b><a target="_blank" href="https://github.com/manjunath5496/AI-Papers-and-Notes/blob/master/aic(472).pdf" style="text-decoration:none;">Time-Series Anomaly Detection Service at Microsoft</a></b></li>
 
-<li><b><a target="_blank" href="https://github.com/manjunath5496/AI-Papers-and-Notes/blob/master/aic(473).pdf" style="text-decoration:none;">Network Implosion: Eective Model Compression for ResNets via Static Layer Pruning and Retraining</a></b></li>                         
+<li><b><a target="_blank" href="https://github.com/manjunath5496/AI-Papers-and-Notes/blob/master/aic(473).pdf" style="text-decoration:none;">Network Implosion: Effective Model Compression for ResNets via Static Layer Pruning and Retraining</a></b></li>                         
   <li><b><a target="_blank" href="https://github.com/manjunath5496/AI-Papers-and-Notes/blob/master/aic(474).pdf" style="text-decoration:none;">Stochastic Mirror Descent on Overparameterized Nonlinear Models: Convergence, Implicit Regularization, and Generalization</a></b></li>  
      <li><b><a target="_blank" href="https://github.com/manjunath5496/AI-Papers-and-Notes/blob/master/aic(475).pdf" style="text-decoration:none;">UniDual: A Unified Model for Image and Video Understanding</a></b></li>  
    <li><b><a target="_blank" href="https://github.com/manjunath5496/AI-Papers-and-Notes/blob/master/aic(476).pdf" style="text-decoration:none;">Automatically Identifying Complaints in Social Media</a></b></li>  
