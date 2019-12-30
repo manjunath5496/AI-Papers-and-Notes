@@ -1184,6 +1184,50 @@
 
  <li><b><a target="_blank" href="https://github.com/manjunath5496/AI-Papers-and-Notes/blob/master/aic(647).pdf" style="text-decoration:none;"> ET-Net: A Generic Edge-aTtention Guidance Network for Medical Image Segmentation</a></b></li>
  
-                                 
+  
+
+  <li><b><a target="_blank" href="https://github.com/manjunath5496/AI-Papers-and-Notes/blob/master/aic(648).pdf" style="text-decoration:none;">Recurrent Convolutional Strategies for Face Manipulation Detection in Videos</a></b></li>                         
+  <li><b><a target="_blank" href="https://github.com/manjunath5496/AI-Papers-and-Notes/blob/master/aic(649).pdf" style="text-decoration:none;">RetinaFace: Single-stage Dense Face Localisation in the Wild</a></b></li>  
+     <li><b><a target="_blank" href="https://github.com/manjunath5496/AI-Papers-and-Notes/blob/master/aic(650).pdf" style="text-decoration:none;">From Video Game to Real Robot: The Transfer between Action Spaces</a></b></li>  
+   <li><b><a target="_blank" href="https://github.com/manjunath5496/AI-Papers-and-Notes/blob/master/aic(651).pdf" style="text-decoration:none;">Single Image Portrait Relighting</a></b></li>  
+                                             
+
+ <li><b><a target="_blank" href="https://github.com/manjunath5496/AI-Papers-and-Notes/blob/master/aic(652).pdf" style="text-decoration:none;">Self-supervised Learning for Video Correspondence Flow</a></b></li>
+ 
+  
+   <li><b><a target="_blank" href="https://github.com/manjunath5496/AI-Papers-and-Notes/blob/master/aic(653).pdf" style="text-decoration:none;">You Only Propagate Once: Accelerating Adversarial Training via Maximal Principle</a></b></li>  
+   <li><b><a target="_blank" href="https://github.com/manjunath5496/AI-Papers-and-Notes/blob/master/aic(654).pdf" style="text-decoration:none;">Joint High Dynamic Range Imaging and Super-Resolution from a Single Image</a></b></li>  
+                                             
+
+ <li><b><a target="_blank" href="https://github.com/manjunath5496/AI-Papers-and-Notes/blob/master/aic(655).pdf" style="text-decoration:none;">Collaborative Evolutionary Reinforcement Learning</a></b></li>
+  
+<li><b><a target="_blank" href="https://github.com/manjunath5496/AI-Papers-and-Notes/blob/master/aic(656).pdf" style="text-decoration:none;">Anti-Confusing: Region-Aware Network for Human Pose Estimation</a></b></li>
+
+<li><b><a target="_blank" href="https://github.com/manjunath5496/AI-Papers-and-Notes/blob/master/aic(657).pdf" style="text-decoration:none;">Deconstructing Lottery Tickets: Zeros, Signs, and the Supermask</a></b></li>                         
+  <li><b><a target="_blank" href="https://github.com/manjunath5496/AI-Papers-and-Notes/blob/master/aic(658).pdf" style="text-decoration:none;">Deep Residual Reinforcement Learning</a></b></li>  
+     <li><b><a target="_blank" href="https://github.com/manjunath5496/AI-Papers-and-Notes/blob/master/aic(659).pdf" style="text-decoration:none;">Seamless Scene Segmentation</a></b></li>  
+   <li><b><a target="_blank" href="https://github.com/manjunath5496/AI-Papers-and-Notes/blob/master/aic(660).pdf" style="text-decoration:none;">SCOPS: Self-Supervised Co-Part Segmentation</a></b></li>  
+                                             
+
+ <li><b><a target="_blank" href="https://github.com/manjunath5496/AI-Papers-and-Notes/blob/master/aic(661).pdf" style="text-decoration:none;">A Survey on Neural Architecture Search</a></b></li>
+ 
+ 
+<li><b><a target="_blank" href="https://github.com/manjunath5496/AI-Papers-and-Notes/blob/master/aic(662).pdf" style="text-decoration:none;">SoilingNet: Soiling Detection on Automotive Surround-View Cameras</a></b></li>
+  
+<li><b><a target="_blank" href="https://github.com/manjunath5496/AI-Papers-and-Notes/blob/master/aic(663).pdf" style="text-decoration:none;">Few-Shot Unsupervised Image-to-Image Translation</a></b></li>
+
+<li><b><a target="_blank" href="https://github.com/manjunath5496/AI-Papers-and-Notes/blob/master/aic(664).pdf" style="text-decoration:none;">FaceShapeGene: A Disentangled Shape Representation for Flexible Face Image Editing</a></b></li>                         
+  <li><b><a target="_blank" href="https://github.com/manjunath5496/AI-Papers-and-Notes/blob/master/aic(665).pdf" style="text-decoration:none;">Fairness-Aware Ranking in Search and Recommendation Systems with Application to LinkedIn Talent Search</a></b></li>  
+     <li><b><a target="_blank" href="https://github.com/manjunath5496/AI-Papers-and-Notes/blob/master/aic(666).pdf" style="text-decoration:none;">Visibility Constrained Generative Model for Depth-based 3D Facial Pose Tracking</a></b></li>  
+   <li><b><a target="_blank" href="https://github.com/manjunath5496/AI-Papers-and-Notes/blob/master/aic(667).pdf" style="text-decoration:none;">Batch Normalization is a Cause of Adversarial Vulnerability</a></b></li>  
+                                             
+
+ <li><b><a target="_blank" href="https://github.com/manjunath5496/AI-Papers-and-Notes/blob/master/aic(668).pdf" style="text-decoration:none;"> Adversarial Examples Are Not Bugs, They Are Features</a></b></li>
+ 
+   <li><b><a target="_blank" href="https://github.com/manjunath5496/AI-Papers-and-Notes/blob/master/aic(669).pdf" style="text-decoration:none;">Batch Normalization is a Cause of Adversarial Vulnerability</a></b></li>  
+                                             
+
+ <li><b><a target="_blank" href="https://github.com/manjunath5496/AI-Papers-and-Notes/blob/master/aic(670).pdf" style="text-decoration:none;"> Adversarial Examples Are Not Bugs, They Are Features</a></b></li>
+                                
  </ul>
  
