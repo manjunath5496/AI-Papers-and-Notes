@@ -1047,7 +1047,68 @@
  
    <li><b><a target="_blank" href="https://github.com/manjunath5496/AI-Papers-and-Notes/blob/master/aic(570).pdf" style="text-decoration:none;">Audits as Evidence: Experiments, Ensembles, and Enforcement </a></b></li>  
    
-   
+ <li><b><a target="_blank" href="https://github.com/manjunath5496/AI-Papers-and-Notes/blob/master/aic(571).pdf" style="text-decoration:none;">Multi-scale Graph-based Grading for Alzheimer's Disease Prediction</a></b></li>
+  
+<li><b><a target="_blank" href="https://github.com/manjunath5496/AI-Papers-and-Notes/blob/master/aic(572).pdf" style="text-decoration:none;">Batch-Shaping for Learning Conditional Channel Gated Networks</a></b></li>
+
+<li><b><a target="_blank" href="https://github.com/manjunath5496/AI-Papers-and-Notes/blob/master/aic(573).pdf" style="text-decoration:none;">Real-time Hair Segmentation and Recoloring on Mobile GPUs</a></b></li>                         
+  <li><b><a target="_blank" href="https://github.com/manjunath5496/AI-Papers-and-Notes/blob/master/aic(574).pdf" style="text-decoration:none;">Separable Convolutional LSTMs for Faster Video Segmentation</a></b></li>  
+     <li><b><a target="_blank" href="https://github.com/manjunath5496/AI-Papers-and-Notes/blob/master/aic(575).pdf" style="text-decoration:none;">Cascade RetinaNet: Maintaining Consistency for Single-Stage Object Detection</a></b></li>  
+   <li><b><a target="_blank" href="https://github.com/manjunath5496/AI-Papers-and-Notes/blob/master/aic(576).pdf" style="text-decoration:none;">AreWe Really Making Much Progress? AWorrying Analysis of Recent Neural Recommendation Approaches</a></b></li>  
+                                             
+
+ <li><b><a target="_blank" href="https://github.com/manjunath5496/AI-Papers-and-Notes/blob/master/aic(577).pdf" style="text-decoration:none;">A Unified Deep Framework for Joint 3D Pose Estimation and Action Recognition from a Single RGB Camera</a></b></li>
+ 
+ 
+<li><b><a target="_blank" href="https://github.com/manjunath5496/AI-Papers-and-Notes/blob/master/aic(578).pdf" style="text-decoration:none;">How much real data do we actually need: Analyzing object detection performance using synthetic and real data</a></b></li>
+  
+<li><b><a target="_blank" href="https://github.com/manjunath5496/AI-Papers-and-Notes/blob/master/aic(579).pdf" style="text-decoration:none;">Efficient Segmentation: Learning Downsampling Near Semantic Boundaries</a></b></li>
+
+<li><b><a target="_blank" href="https://github.com/manjunath5496/AI-Papers-and-Notes/blob/master/aic(580).pdf" style="text-decoration:none;">Explaining Classifiers with Causal Concept Effect (CaCE)</a></b></li>                         
+  <li><b><a target="_blank" href="https://github.com/manjunath5496/AI-Papers-and-Notes/blob/master/aic(581).pdf" style="text-decoration:none;">On the "steerability" of generative adversarial networks</a></b></li>  
+     <li><b><a target="_blank" href="https://github.com/manjunath5496/AI-Papers-and-Notes/blob/master/aic(582).pdf" style="text-decoration:none;">Natural Adversarial Examples</a></b></li>  
+   <li><b><a target="_blank" href="https://github.com/manjunath5496/AI-Papers-and-Notes/blob/master/aic(583).pdf" style="text-decoration:none;">Fake News Detection as Natural Language Inference</a></b></li>  
+                                             
+
+ <li><b><a target="_blank" href="https://github.com/manjunath5496/AI-Papers-and-Notes/blob/master/aic(584).pdf" style="text-decoration:none;">Probing Neural Network Comprehension of Natural Language Arguments</a></b></li>
+ 
+  <li><b><a target="_blank" href="https://github.com/manjunath5496/AI-Papers-and-Notes/blob/master/aic(585).pdf" style="text-decoration:none;">A Survey on Explainable Artificial Intelligence (XAI): towards Medical XAI</a></b></li>                         
+  <li><b><a target="_blank" href="https://github.com/manjunath5496/AI-Papers-and-Notes/blob/master/aic(586).pdf" style="text-decoration:none;">Benchmarking Robustness in Object Detection: Autonomous Driving when Winter is Coming</a></b></li>  
+     <li><b><a target="_blank" href="https://github.com/manjunath5496/AI-Papers-and-Notes/blob/master/aic(587).pdf" style="text-decoration:none;">Self Organizing Supply Chains for Micro-Prediction: Present and Future uses of the ROAR Protocol</a></b></li>  
+   <li><b><a target="_blank" href="https://github.com/manjunath5496/AI-Papers-and-Notes/blob/master/aic(588).pdf" style="text-decoration:none;">Self-Attentive Hawkes Processes</a></b></li>  
+                                             
+
+ <li><b><a target="_blank" href="https://github.com/manjunath5496/AI-Papers-and-Notes/blob/master/aic(589).pdf" style="text-decoration:none;">FOSNet: An End-to-End Trainable Deep Neural Network for Scene Recognition</a></b></li>
+ 
+  
+   <li><b><a target="_blank" href="https://github.com/manjunath5496/AI-Papers-and-Notes/blob/master/aic(590).pdf" style="text-decoration:none;">AquaSight: Automatic Water Impurity Detection Utilizing Convolutional Neural Networks</a></b></li> 
+   <li><b><a target="_blank" href="https://github.com/manjunath5496/AI-Papers-and-Notes/blob/master/aic(591).pdf" style="text-decoration:none;">News Cover Assessment via Multi-task Learning</a></b></li>  
+                                             
+<li><b><a target="_blank" href="https://github.com/manjunath5496/AI-Papers-and-Notes/blob/master/aic(592).pdf" style="text-decoration:none;">Zygote: A Differentiable Programming System to Bridge Machine Learning and Scientific Computing</a></b></li>
+  
+<li><b><a target="_blank" href="https://github.com/manjunath5496/AI-Papers-and-Notes/blob/master/aic(593).pdf" style="text-decoration:none;">Mitigating Uncertainty in Document Classification</a></b></li>
+
+<li><b><a target="_blank" href="https://github.com/manjunath5496/AI-Papers-and-Notes/blob/master/aic(594).pdf" style="text-decoration:none;">Clustering Activity-Travel Behavior Time Series using Topological Data Analysis</a></b></li>                         
+  <li><b><a target="_blank" href="https://github.com/manjunath5496/AI-Papers-and-Notes/blob/master/aic(595).pdf" style="text-decoration:none;">Learning End-to-End Goal-Oriented Dialog with Maximal User Task Success and Minimal Human Agent Use</a></b></li>  
+     <li><b><a target="_blank" href="https://github.com/manjunath5496/AI-Papers-and-Notes/blob/master/aic(596).pdf" style="text-decoration:none;">Robustness properties of Facebook’s ResNeXt WSL models</a></b></li>  
+   <li><b><a target="_blank" href="https://github.com/manjunath5496/AI-Papers-and-Notes/blob/master/aic(597).pdf" style="text-decoration:none;">Gated Recurrent Neural Network Approach for Multilabel Emotion Detection in Microblogs</a></b></li>  
+                                             
+
+ <li><b><a target="_blank" href="https://github.com/manjunath5496/AI-Papers-and-Notes/blob/master/aic(598).pdf" style="text-decoration:none;">Truck Traffic Monitoring with Satellite Images</a></b></li>
+ 
+ 
+<li><b><a target="_blank" href="https://github.com/manjunath5496/AI-Papers-and-Notes/blob/master/aic(599).pdf" style="text-decoration:none;">Learning Privately over Distributed Features: An ADMM Sharing Approach</a></b></li>
+  
+<li><b><a target="_blank" href="https://github.com/manjunath5496/AI-Papers-and-Notes/blob/master/aic(600).pdf" style="text-decoration:none;">OmniNet: A unified architecture for multi-modal multi-task learning</a></b></li>
+
+<li><b><a target="_blank" href="https://github.com/manjunath5496/AI-Papers-and-Notes/blob/master/aic(601).pdf" style="text-decoration:none;">An Adaptive Approach for Anomaly Detector Selection and Fine-Tuning in Time Series</a></b></li>                         
+  <li><b><a target="_blank" href="https://github.com/manjunath5496/AI-Papers-and-Notes/blob/master/aic(602).pdf" style="text-decoration:none;">Understanding Video Content: Efficient Hero Detection and Recognition for the Game "Honor of Kings"</a></b></li>  
+     <li><b><a target="_blank" href="https://github.com/manjunath5496/AI-Papers-and-Notes/blob/master/aic(603).pdf" style="text-decoration:none;">A Computer Vision Application for Assessing Facial Acne Severity from Selfie Images</a></b></li>  
+   <li><b><a target="_blank" href="https://github.com/manjunath5496/AI-Papers-and-Notes/blob/master/aic(604).pdf" style="text-decoration:none;">Deep Neural Models for Medical Concept Normalization in User-Generated Texts</a></b></li>  
+                                             
+
+ <li><b><a target="_blank" href="https://github.com/manjunath5496/AI-Papers-and-Notes/blob/master/aic(605).pdf" style="text-decoration:none;">Real-Time Driver State Monitoring Using a CNN Based Spatio-Temporal Approach</a></b></li>
+ 
                                   
  </ul>
  
