@@ -954,7 +954,7 @@
  <li><b><a target="_blank" href="https://github.com/manjunath5496/AI-Papers-and-Notes/blob/master/aic(519).pdf" style="text-decoration:none;">LumièreNet: Lecture Video Synthesis from Audio</a></b></li>
  
  
-<li><b><a target="_blank" href="https://github.com/manjunath5496/AI-Papers-and-Notes/blob/master/aic(520).pdf" style="text-decoration:none;">Diffprivlib: The IBM Dierential Privacy Library</a></b></li>
+<li><b><a target="_blank" href="https://github.com/manjunath5496/AI-Papers-and-Notes/blob/master/aic(520).pdf" style="text-decoration:none;">Diffprivlib: The IBM Differential Privacy Library</a></b></li>
   
 <li><b><a target="_blank" href="https://github.com/manjunath5496/AI-Papers-and-Notes/blob/master/aic(521).pdf" style="text-decoration:none;">Collecting Indicators of Compromise from Unstructured Text of Cybersecurity Articles using Neural-Based Sequence Labelling</a></b></li>
 
