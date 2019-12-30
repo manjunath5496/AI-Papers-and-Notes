@@ -1109,6 +1109,44 @@
 
  <li><b><a target="_blank" href="https://github.com/manjunath5496/AI-Papers-and-Notes/blob/master/aic(605).pdf" style="text-decoration:none;">Real-Time Driver State Monitoring Using a CNN Based Spatio-Temporal Approach</a></b></li>
  
+  <li><b><a target="_blank" href="https://github.com/manjunath5496/AI-Papers-and-Notes/blob/master/aic(606).pdf" style="text-decoration:none;">ELG: An Event Logic Graph</a></b></li>                         
+  <li><b><a target="_blank" href="https://github.com/manjunath5496/AI-Papers-and-Notes/blob/master/aic(607).pdf" style="text-decoration:none;">Automatic Grading of Individual Knee Osteoarthritis Features in Plain Radiographs using Deep Convolutional Neural Networks</a></b></li>  
+     <li><b><a target="_blank" href="https://github.com/manjunath5496/AI-Papers-and-Notes/blob/master/aic(608).pdf" style="text-decoration:none;">Self-supervised Training of Proposal-based Segmentation via Background Prediction</a></b></li>  
+   <li><b><a target="_blank" href="https://github.com/manjunath5496/AI-Papers-and-Notes/blob/master/aic(609).pdf" style="text-decoration:none;">A Survey of Data Quality Measurement and Monitoring Tools</a></b></li>  
+                                             
+
+ <li><b><a target="_blank" href="https://github.com/manjunath5496/AI-Papers-and-Notes/blob/master/aic(610).pdf" style="text-decoration:none;">OCC: A Smart Reply System for Efficient In-App Communications</a></b></li>
+ 
+  
+   <li><b><a target="_blank" href="https://github.com/manjunath5496/AI-Papers-and-Notes/blob/master/aic(611).pdf" style="text-decoration:none;">Querying Knowledge via Multi-Hop English Questions</a></b></li>  
+   <li><b><a target="_blank" href="https://github.com/manjunath5496/AI-Papers-and-Notes/blob/master/aic(612).pdf" style="text-decoration:none;">Multi-Task Regression-based Learning for Autonomous Unmanned Aerial Vehicle Flight Control within Unstructured Outdoor Environments</a></b></li>  
+                                             
+
+ <li><b><a target="_blank" href="https://github.com/manjunath5496/AI-Papers-and-Notes/blob/master/aic(613).pdf" style="text-decoration:none;">I Stand With You: Using Emojis to Study Solidarity in Crisis Events</a></b></li>
+  
+<li><b><a target="_blank" href="https://github.com/manjunath5496/AI-Papers-and-Notes/blob/master/aic(614).pdf" style="text-decoration:none;">GPU-Accelerated Atari Emulation for Reinforcement Learning</a></b></li>
+
+<li><b><a target="_blank" href="https://github.com/manjunath5496/AI-Papers-and-Notes/blob/master/aic(615).pdf" style="text-decoration:none;">Interpretable Modelling of Driving Behaviors in Interactive Driving Scenarios based on Cumulative Prospect Theory</a></b></li>                         
+  <li><b><a target="_blank" href="https://github.com/manjunath5496/AI-Papers-and-Notes/blob/master/aic(616).pdf" style="text-decoration:none;">Cross-Domain Car Detection Using Unsupervised Image-to-Image Translation: From Day to Night</a></b></li>  
+     <li><b><a target="_blank" href="https://github.com/manjunath5496/AI-Papers-and-Notes/blob/master/aic(617).pdf" style="text-decoration:none;">Incremental Transformer with Deliberation Decoder for Document Grounded Conversations</a></b></li>  
+   <li><b><a target="_blank" href="https://github.com/manjunath5496/AI-Papers-and-Notes/blob/master/aic(618).pdf" style="text-decoration:none;">Construct Dynamic Graphs for Hand Gesture Recognition via Spatial-Temporal Attention</a></b></li>  
+                                             
+
+ <li><b><a target="_blank" href="https://github.com/manjunath5496/AI-Papers-and-Notes/blob/master/aic(619).pdf" style="text-decoration:none;">Techniques for Automated Machine Learning</a></b></li>
+ 
+ 
+<li><b><a target="_blank" href="https://github.com/manjunath5496/AI-Papers-and-Notes/blob/master/aic(620).pdf" style="text-decoration:none;">DetectFusion: Detecting and Segmenting Both Known and Unknown Dynamic Objects in Real-time SLAM</a></b></li>
+  
+<li><b><a target="_blank" href="https://github.com/manjunath5496/AI-Papers-and-Notes/blob/master/aic(621).pdf" style="text-decoration:none;">Trends in Integration of Vision and Language Research: A Survey of Tasks, Datasets, and Methods</a></b></li>
+
+<li><b><a target="_blank" href="https://github.com/manjunath5496/AI-Papers-and-Notes/blob/master/aic(622).pdf" style="text-decoration:none;">Introduction to Neural Network based Approaches for Question Answering over Knowledge Graphs</a></b></li>                         
+  <li><b><a target="_blank" href="https://github.com/manjunath5496/AI-Papers-and-Notes/blob/master/aic(623).pdf" style="text-decoration:none;">Visualizing the Invisible: Occluded Vehicle Segmentation and Recovery</a></b></li>  
+     <li><b><a target="_blank" href="https://github.com/manjunath5496/AI-Papers-and-Notes/blob/master/aic(624).pdf" style="text-decoration:none;">Multi-Class Lane Semantic Segmentation using Efficient Convolutional Networks</a></b></li>  
+   <li><b><a target="_blank" href="https://github.com/manjunath5496/AI-Papers-and-Notes/blob/master/aic(625).pdf" style="text-decoration:none;">MixConv: Mixed Depthwise Convolutional Kernels</a></b></li>  
+                                             
+
+ <li><b><a target="_blank" href="https://github.com/manjunath5496/AI-Papers-and-Notes/blob/master/aic(626).pdf" style="text-decoration:none;"> Make Skeleton-based Action Recognition Model Smaller, Faster and Better</a></b></li>
+ 
                                   
  </ul>
  
