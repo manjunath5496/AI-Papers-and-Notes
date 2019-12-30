@@ -1226,7 +1226,6 @@
  
    <li><b><a target="_blank" href="https://github.com/manjunath5496/AI-Papers-and-Notes/blob/master/aic(669).pdf" style="text-decoration:none;">Learning to Represent Edits</a></b></li>  
                                              
-
  <li><b><a target="_blank" href="https://github.com/manjunath5496/AI-Papers-and-Notes/blob/master/aic(670).pdf" style="text-decoration:none;"> Spherical CNNs</a></b></li>
                                 
  </ul>
