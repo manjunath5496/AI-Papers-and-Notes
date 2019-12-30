@@ -508,9 +508,6 @@
    <li><b><a target="_blank" href="https://github.com/manjunath5496/AI-Papers-and-Notes/blob/master/aic(276).pdf" style="text-decoration:none;">Challenges of Real-World Reinforcement Learning</a></b></li> 
    
    
-   
-   
-   
    <li><b><a target="_blank" href="https://github.com/manjunath5496/AI-Papers-and-Notes/blob/master/aic(277).pdf" style="text-decoration:none;">Enabling Robots to Understand Incomplete Natural Language Instructions Using Commonsense Reasoning </a></b></li>  
                                              
 <li><b><a target="_blank" href="https://github.com/manjunath5496/AI-Papers-and-Notes/blob/master/aic(278).pdf" style="text-decoration:none;">A Study on Action Detection in the Wild</a></b></li>
